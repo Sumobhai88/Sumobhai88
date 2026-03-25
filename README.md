@@ -110,8 +110,8 @@ _(More AI systems under development…)_
 ## 🌐 Connect With Me
 
 - 📍 Patna, Bihar, India  
-- 📧 Email: *(add here)*  
-- 💼 LinkedIn: *(add here)*  
+- 📧 Email:  
+- 💼 LinkedIn:https://www.linkedin.com/in/sudhanshu-sharan-467105292/
 
 ---
 
