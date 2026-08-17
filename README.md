@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 Founder of Starry Vision | AI Engineer in Progress | Full Stack Architect
+    AI Engineer in Progress | Full Stack Architect
 </h3>
 
 <p align="center">
